@@ -1,0 +1,50 @@
+body {
+    background-color:black;
+    font-family: arial,sans-serif;
+    color: white;
+}
+
+.header2 {
+background-color: orange;
+padding: 10px;
+font-size: larger;
+border-radius: 7px;
+width: 205px;
+}
+.header1 {
+   
+    padding: 10px;
+    font-size: larger;
+    border-radius: 7px;
+    width: 205px;
+    color: white;
+    }
+    .header2 {
+        display: inline-block;
+        width:210px;
+        height:120px;
+        ;
+        
+    }
+    .header1 {
+        display: inline-block;
+        width:160px;
+        height: 120px;
+       
+    }
+    .header {
+       
+        height: 120px;
+        padding: 10px;
+        width: 420px;
+    }
+.about {
+    color: white;
+    text-decoration: none;
+    opacity: 0.5;
+    transition: opacity 0.5s;
+}
+.about:hover {
+    opacity: 1
+    
+}
